@@ -8,3 +8,6 @@ Day-to-day progress notes.
 ## 2025-08-04
 - About section done. Used CSS grid for the info card layout
 
+## 2025-08-13
+- Skills section with tech categories. Used skillicons.dev approach locally
+
