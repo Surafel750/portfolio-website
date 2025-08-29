@@ -11,3 +11,6 @@ Day-to-day progress notes.
 ## 2025-08-13
 - Skills section with tech categories. Used skillicons.dev approach locally
 
+## 2025-08-29
+- Projects section looks good. Cards animate on hover with translate-y
+
