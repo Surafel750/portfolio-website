@@ -14,3 +14,6 @@ Day-to-day progress notes.
 ## 2025-08-29
 - Projects section looks good. Cards animate on hover with translate-y
 
+## 2025-09-06
+- Added smooth scroll. Fixed navbar overlap with section headings
+
