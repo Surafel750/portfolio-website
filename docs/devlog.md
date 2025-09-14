@@ -17,3 +17,6 @@ Day-to-day progress notes.
 ## 2025-09-06
 - Added smooth scroll. Fixed navbar overlap with section headings
 
+## 2025-09-14
+- Contact section added. Will wire to EmailJS later
+
