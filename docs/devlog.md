@@ -20,3 +20,6 @@ Day-to-day progress notes.
 ## 2025-09-14
 - Contact section added. Will wire to EmailJS later
 
+## 2025-09-26
+- Mobile nav toggle working. Used useState for open/close state
+
