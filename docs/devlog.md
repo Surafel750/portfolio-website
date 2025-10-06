@@ -23,3 +23,6 @@ Day-to-day progress notes.
 ## 2025-09-26
 - Mobile nav toggle working. Used useState for open/close state
 
+## 2025-10-06
+- Added MIT license. All open-source projects should have a license
+
