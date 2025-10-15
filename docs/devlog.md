@@ -26,3 +26,6 @@ Day-to-day progress notes.
 ## 2025-10-06
 - Added MIT license. All open-source projects should have a license
 
+## 2025-10-15
+- Fixed footer padding on mobile. 100px → 40px looks much cleaner
+
