@@ -29,3 +29,6 @@ Day-to-day progress notes.
 ## 2025-10-15
 - Fixed footer padding on mobile. 100px → 40px looks much cleaner
 
+## 2025-10-27
+- Used CSS custom properties for theme colours. Easier to maintain
+
