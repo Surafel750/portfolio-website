@@ -32,3 +32,6 @@ Day-to-day progress notes.
 ## 2025-10-27
 - Used CSS custom properties for theme colours. Easier to maintain
 
+## 2025-11-07
+- Added scroll-to-top button. Shows after scrolling 300px
+
