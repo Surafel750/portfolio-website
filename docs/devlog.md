@@ -35,3 +35,6 @@ Day-to-day progress notes.
 ## 2025-11-07
 - Added scroll-to-top button. Shows after scrolling 300px
 
+## 2025-11-17
+- Portfolio deployed to Vercel. Custom domain pending
+
