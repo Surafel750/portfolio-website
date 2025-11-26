@@ -38,3 +38,6 @@ Day-to-day progress notes.
 ## 2025-11-17
 - Portfolio deployed to Vercel. Custom domain pending
 
+## 2025-11-26
+- Fixed Tailwind purge — all dynamic classes now in safelist
+
