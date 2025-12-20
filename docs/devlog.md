@@ -41,3 +41,6 @@ Day-to-day progress notes.
 ## 2025-11-26
 - Fixed Tailwind purge — all dynamic classes now in safelist
 
+## 2025-12-20
+- Christmas break — refactoring portfolio layout. Added gradient accents
+
