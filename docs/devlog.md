@@ -44,3 +44,6 @@ Day-to-day progress notes.
 ## 2025-12-20
 - Christmas break — refactoring portfolio layout. Added gradient accents
 
+## 2026-01-07
+- Redesigned About section. JSON code block looks clean and developer-y
+
