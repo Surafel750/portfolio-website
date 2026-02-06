@@ -50,3 +50,6 @@ Day-to-day progress notes.
 ## 2026-01-23
 - Added project status badges to portfolio (Live / Active / Growing)
 
+## 2026-02-06
+- Portfolio: improved SEO meta tags. Added og:image for social sharing
+
