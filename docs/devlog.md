@@ -53,3 +53,6 @@ Day-to-day progress notes.
 ## 2026-02-06
 - Portfolio: improved SEO meta tags. Added og:image for social sharing
 
+## 2026-02-18
+- Refactored App.jsx: extracted layout into sections for cleaner code
+
