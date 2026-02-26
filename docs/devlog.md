@@ -56,3 +56,6 @@ Day-to-day progress notes.
 ## 2026-02-18
 - Refactored App.jsx: extracted layout into sections for cleaner code
 
+## 2026-02-26
+- Skills icons: switched to skillicons.dev dark theme. Looks much better
+
