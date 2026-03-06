@@ -59,3 +59,6 @@ Day-to-day progress notes.
 ## 2026-02-26
 - Skills icons: switched to skillicons.dev dark theme. Looks much better
 
+## 2026-03-06
+- Added Framer Motion page transitions. Smooth fade-in on section load
+
