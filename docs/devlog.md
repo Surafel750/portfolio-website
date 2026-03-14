@@ -62,3 +62,6 @@ Day-to-day progress notes.
 ## 2026-03-06
 - Added Framer Motion page transitions. Smooth fade-in on section load
 
+## 2026-03-14
+- Added dark/light mode toggle. Persists to localStorage
+
