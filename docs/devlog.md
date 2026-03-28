@@ -65,3 +65,6 @@ Day-to-day progress notes.
 ## 2026-03-14
 - Added dark/light mode toggle. Persists to localStorage
 
+## 2026-03-28
+- Portfolio: added 'Open to work' banner. Toggleable from config
+
