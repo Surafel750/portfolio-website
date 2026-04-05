@@ -68,3 +68,6 @@ Day-to-day progress notes.
 ## 2026-03-28
 - Portfolio: added 'Open to work' banner. Toggleable from config
 
+## 2026-04-05
+- Fixed TypeScript error in Skills component — prop types now explicit
+
