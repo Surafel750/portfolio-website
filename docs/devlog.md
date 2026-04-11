@@ -71,3 +71,6 @@ Day-to-day progress notes.
 ## 2026-04-05
 - Fixed TypeScript error in Skills component — prop types now explicit
 
+## 2026-04-11
+- Projects section: added GitHub stars badge via shields.io
+
