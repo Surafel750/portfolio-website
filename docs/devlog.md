@@ -74,3 +74,6 @@ Day-to-day progress notes.
 ## 2026-04-11
 - Projects section: added GitHub stars badge via shields.io
 
+## 2026-04-25
+- Added loading skeleton components. Prevents layout shift on data fetch
+
