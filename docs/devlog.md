@@ -77,3 +77,6 @@ Day-to-day progress notes.
 ## 2026-04-25
 - Added loading skeleton components. Prevents layout shift on data fetch
 
+## 2026-05-07
+- Improved Lighthouse score from 82 to 96 (lazy load images, compress assets)
+
