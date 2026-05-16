@@ -80,3 +80,6 @@ Day-to-day progress notes.
 ## 2026-05-07
 - Improved Lighthouse score from 82 to 96 (lazy load images, compress assets)
 
+## 2026-05-16
+- Portfolio responsive fixes: cards stack properly on 375px screens
+
