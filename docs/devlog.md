@@ -83,3 +83,6 @@ Day-to-day progress notes.
 ## 2026-05-16
 - Portfolio responsive fixes: cards stack properly on 375px screens
 
+## 2026-05-29
+- Added analytics with Vercel Analytics. Zero cookies, GDPR compliant
+
